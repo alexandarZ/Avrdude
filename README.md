@@ -9,3 +9,6 @@ AVRDUDE is a very popular command-line program for programming AVR chips and Ard
 * Python PySerial library
 * Windows OS
 
+#### Problems:
+
+* Program Arduino Leonardo using avrdude: [link](https://github.com/alexandarZ/Avrdude/blob/master/Arduino-Leonardo.md)
